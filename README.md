@@ -8,24 +8,15 @@ The project covers the complete ML workflow—from data analysis and model train
 
 ## 📸 Screenshots
 
-### Streamlit UI
-> *(Add screenshot here)*
 
-![Streamlit UI](screenshots/streamlit-ui.png)
 
 ---
 
 ### Prediction Result
 > *(Add screenshot here)*
 
-![Prediction](screenshots/prediction-result.png)
+![Prediction](prediction-result.png)
 
----
-
-### FastAPI Swagger Docs
-> *(Add screenshot here)*
-
-![Swagger](screenshots/swagger-docs.png)
 
 ---
 
@@ -144,6 +135,3 @@ Random Forest was selected as the final model due to its best overall performanc
 
 **Khubi Sahu**
 
-GitHub: https://github.com/<your-github-username>
-
-LinkedIn: https://linkedin.com/in/<your-linkedin>
